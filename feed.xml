@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homelab Proxmox &amp; TrueNAS Storage Guild</title>
+    <link>https://jibranpcccc.github.io/homelab-proxmox-truenas-storage-guild/</link>
+    <description>Verified community directory and updates.</description>
+    <lastBuildDate>Fri, 18 Sep 2026 06:06:54 GMT</lastBuildDate>
+    <atom:link href="https://jibranpcccc.github.io/homelab-proxmox-truenas-storage-guild/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>Homelab Proxmox &amp; TrueNAS Storage Guild Initial Release</title>
+      <link>https://jibranpcccc.github.io/homelab-proxmox-truenas-storage-guild/</link>
+      <pubDate>Fri, 18 Sep 2026 06:06:54 GMT</pubDate>
+      <description>Initial collection of verified communities published.</description>
+    </item>
+  </channel>
+</rss>
