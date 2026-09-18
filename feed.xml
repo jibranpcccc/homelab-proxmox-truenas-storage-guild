@@ -4,10 +4,17 @@
     <title>Homelab Proxmox &amp; TrueNAS Storage Guild</title>
     <link>https://jibranpcccc.github.io/homelab-proxmox-truenas-storage-guild/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 18 Sep 2026 06:06:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:22:15 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/homelab-proxmox-truenas-storage-guild/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: r/typescript Architecture (Reddit)</title>
+      <link>https://www.reddit.com/r/typescript/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/homelab-proxmox-truenas-storage-guild/#homelab-proxmox-truenas-storage-guild-reddit-20260918-1-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 06:22:15 GMT</pubDate>
+      <description>Newly verified community added to Homelab Proxmox &amp; TrueNAS Storage Guild: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
+    </item>
+<item>
       <title>Homelab Proxmox &amp; TrueNAS Storage Guild Initial Release</title>
       <link>https://jibranpcccc.github.io/homelab-proxmox-truenas-storage-guild/</link>
       <pubDate>Fri, 18 Sep 2026 06:06:54 GMT</pubDate>
